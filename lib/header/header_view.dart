@@ -25,7 +25,7 @@ class HeaderView extends StatelessWidget {
                   child: HeaderBody(isMobile: true),
                 ),
                 Image.asset(
-                  'images/header.png',
+                  'images/header.jpeg',
                   height: 700,
                 ),
               ],
